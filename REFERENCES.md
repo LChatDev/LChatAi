@@ -1,18 +1,26 @@
 # Individual GUI references
 
-These ten AI-generated reference images are in the chat's downloadable ZIP, but **not yet committed to GitHub**. Upload each PNG to `references/` using the names below before using GitHub Raw URLs.
+These are **10 separate original SVG design references**, already committed to `main`. Click a file to inspect its design, or use its Raw link to open/download the image.
 
-1. `01-design-system.png` — GUI components, palette and typography
-2. `02-chat-list-light.png` — mobile chat list, light
-3. `03-dialog-dark.png` — mobile conversation, dark
-4. `04-desktop-light.png` — desktop messaging layout
-5. `05-profile-settings.png` — profile and settings
-6. `06-media-files.png` — attachments, media and files
-7. `07-calls.png` — voice and video calls
-8. `08-groups-channels.png` — groups, channels and discovery
-9. `09-states.png` — loading, empty, errors and microinteractions
-10. `10-ai-branding.png` — names, copy, logo and theme concepts
+| # | Reference | Raw |
+|---|---|---|
+| 01 | [Design system](references/01-design-system.svg) | [SVG](https://raw.githubusercontent.com/LChatDev/LChatAi/main/references/01-design-system.svg) |
+| 02 | [Light chat list](references/02-chat-list-light.svg) | [SVG](https://raw.githubusercontent.com/LChatDev/LChatAi/main/references/02-chat-list-light.svg) |
+| 03 | [Dark conversation](references/03-dialog-dark.svg) | [SVG](https://raw.githubusercontent.com/LChatDev/LChatAi/main/references/03-dialog-dark.svg) |
+| 04 | [Light desktop](references/04-desktop-light.svg) | [SVG](https://raw.githubusercontent.com/LChatDev/LChatAi/main/references/04-desktop-light.svg) |
+| 05 | [Profile and settings](references/05-profile-settings.svg) | [SVG](https://raw.githubusercontent.com/LChatDev/LChatAi/main/references/05-profile-settings.svg) |
+| 06 | [Media and files](references/06-media-files.svg) | [SVG](https://raw.githubusercontent.com/LChatDev/LChatAi/main/references/06-media-files.svg) |
+| 07 | [Calls](references/07-calls.svg) | [SVG](https://raw.githubusercontent.com/LChatDev/LChatAi/main/references/07-calls.svg) |
+| 08 | [Groups and channels](references/08-groups-channels.svg) | [SVG](https://raw.githubusercontent.com/LChatDev/LChatAi/main/references/08-groups-channels.svg) |
+| 09 | [Interface states](references/09-states.svg) | [SVG](https://raw.githubusercontent.com/LChatDev/LChatAi/main/references/09-states.svg) |
+| 10 | [AI branding](references/10-ai-branding.svg) | [SVG](https://raw.githubusercontent.com/LChatDev/LChatAi/main/references/10-ai-branding.svg) |
 
-Once uploaded: `https://raw.githubusercontent.com/LChatDev/LChatAi/main/references/01-design-system.png`
+The **10 original AI-generated PNG images** remain in the separate chat ZIP. They have not been uploaded to the GitHub repository; these 10 SVG references are newly created editable vector design boards.
 
-**Note:** images are unofficial AI mockups, not Telegram screenshots.
+**Important:** all visuals are unofficial design mockups, not official Telegram screenshots.
+
+## Download
+
+Download the GitHub source as a ZIP: https://github.com/LChatDev/LChatAi/archive/refs/heads/main.zip
+
+You can also use GitHub's **Code → Download ZIP**. The ZIP includes all SVG references and GUI-only skill text.
