@@ -26,3 +26,6 @@ A manual-release GitHub Actions workflow is included at `.github/workflows/relea
 ## Rights and provenance
 
 The ten SVGs are original custom mockup diagrams. The ten larger AI-generated PNG concept boards from the earlier chat package are **not uploaded to this repository**. These are unofficial references and not screenshots from Telegram. External project links are references, not copied third-party source trees. See [SOURCES.md](SOURCES.md).
+
+
+[Codex skill / ИИ-скилл](.agents/skills/lchat-maintainer/SKILL.md). Open the repository in Codex and invoke `$lchat-maintainer`.
