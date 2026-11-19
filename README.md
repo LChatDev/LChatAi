@@ -1,5 +1,10 @@
 # LChatAi — GUI Super Skill
 
+<!-- live-sync-20261119 -->
+
+[Website update and deployment (English)](SYNC_EN.md) · [Обновление и размещение (русский)](SYNC_RU.md)
+
+
 **GUI design only.** A Telegram-inspired visual skill with **10 individual SVG design references**, mobile and desktop layouts, light/dark themes, chats, profile, settings, calls, media, interface states, design tokens, AI naming, branding and microcopy. **No AeroChat, no backend or functional messenger.**
 
 ## Start here

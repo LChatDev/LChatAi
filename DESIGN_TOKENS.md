@@ -16,3 +16,9 @@
 - Rounded cards: 12–16px; message bubble: 12–18px
 - Typography: system sans-serif, headings 20–24px, body 14–16px, captions 11–13px
 - These are original starter values, not verified Telegram exact tokens.
+
+## LChat pixel theme / Пиксельная тема LChat
+
+The live LChat theme uses cobalt #0638C8, dark navy #070C26, panel #0A1030, pale blue #D6E0FA and the original pixel logo. Pixelify Sans is the display face, Inter is used for body copy. Avatars and action buttons use stepped corners. Both light and dark modes are available. Keep mobile search, navigation and keyboard access usable. Additional skins are selected from the appearance menu.
+
+Текущая тема использует кобальт #0638C8, тёмный фон #070C26, панели #0A1030 и светлый синий #D6E0FA. Заголовки — Pixelify Sans, основной текст — Inter. У аватаров и кнопок ступенчатые углы. Есть светлый и тёмный режимы, поиск и мобильная навигация. Дополнительные темы выбираются в меню оформления.
